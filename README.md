@@ -11,14 +11,7 @@
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=php&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC721-informational?style=flat&logo=erc721&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC1155-informational?style=flat&logo=erc1155&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC20-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Go-informational?style=flat&logo=go&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/CI/CD-Github_Action-informational?style=flat&logo=github&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/CI/CD-Circle_CI-informational?style=flat&logo=circleci&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=3bac3a)
@@ -49,9 +42,7 @@
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
 <code><img height="45" src="https://www.chartjs.org/media/logo-title.svg"></code>
 <code><img height="45" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
@@ -64,10 +55,5 @@
 <code><img height="45" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" ></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="45" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/pwa.png"></code>
 <code><img height="45" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/4b228024863997.5633b53b3205f.png"></code>
-<code><img height="45" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/erp.png"></code>
-<code><img height="45" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/crm.png"></code>
-<code><img height="45" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/b2b.png"></code>
-<code><img height="45" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/b2c.png"></code>
 <br><br>
